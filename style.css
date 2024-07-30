@@ -1,0 +1,8 @@
+        .text-wrap {
+            word-wrap: break-word; 
+            overflow-wrap: break-word;
+            hyphens: auto; 
+            }
+        .switcher-icon i {
+            font-size: 24px;
+        }
